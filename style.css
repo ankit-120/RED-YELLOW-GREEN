@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.heading{
+    padding: 50px;
+    font-size: 44px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+}
+
+#red{
+    background-color: red;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
+
